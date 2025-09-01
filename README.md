@@ -89,4 +89,4 @@ If you want a no-hassle setup consider signing up for the $1 tier on the Patreon
 
 Your worker should be up and running now and you getting unlimited Yomitan audio through your worker!
 
-[^1]: Note that you will still need to add a payment method to your Cloudflare account to create some rescoures, but you will not be charged for using this worker for yourself.
+[^1]: Note that you will still need to add a payment method to your Cloudflare account to create some resources, but you will not be charged for using this worker for yourself.
